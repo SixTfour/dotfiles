@@ -1,0 +1,397 @@
+{
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "window.zoomLevel": 0,
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "file-icons",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "profileSwitcher.profiles": [
+    "Cpp",
+    "Go",
+    "Java",
+    "Python",
+    "React",
+    "Rust",
+    "Leetcode (JS)"
+  ],
+  "profileSwitcher.storage": {
+    "React": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    },
+    "Java": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    },
+    "Rust": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    },
+    "Python": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    },
+    "Cpp": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    },
+    "Go": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    },
+    "Leetcode (JS)": {
+      "explorer.confirmDelete": false,
+      "workbench.colorTheme": "Atom One Dark",
+      "window.zoomLevel": 0,
+      "editor.formatOnSave": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "workbench.iconTheme": "file-icons",
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    }
+  },
+  "profileSwitcher.extensions": {
+    "React": [
+      {
+        "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+        "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+        "publisherName": "VisualStudioExptTeam",
+        "version": "1.1.9",
+        "name": "vscodeintellicode"
+      },
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+        "publisherId": "ms-azuretools.vscode-docker",
+        "publisherName": "ms-azuretools",
+        "version": "0.7.0",
+        "name": "vscode-docker"
+      },
+      {
+        "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
+        "publisherId": "msjsdiag.debugger-for-chrome",
+        "publisherName": "msjsdiag",
+        "version": "4.11.7",
+        "name": "debugger-for-chrome"
+      },
+      {
+        "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+        "publisherId": "esbenp.prettier-vscode",
+        "publisherName": "esbenp",
+        "version": "2.2.2",
+        "name": "prettier-vscode"
+      }
+    ],
+    "Java": [
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "74f34f8a-245e-4133-8617-a3a94b5a417e",
+        "publisherId": "cmstead.jsrefactor",
+        "publisherName": "cmstead",
+        "version": "2.18.2",
+        "name": "jsrefactor"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+        "publisherId": "ms-azuretools.vscode-docker",
+        "publisherName": "ms-azuretools",
+        "version": "0.7.0",
+        "name": "vscode-docker"
+      },
+      {
+        "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+        "publisherId": "redhat.java",
+        "publisherName": "redhat",
+        "version": "0.48.0",
+        "name": "java"
+      },
+      {
+        "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+        "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+        "publisherName": "VisualStudioExptTeam",
+        "version": "1.1.9",
+        "name": "vscodeintellicode"
+      },
+      {
+        "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
+        "publisherId": "vscjava.vscode-java-debug",
+        "publisherName": "vscjava",
+        "version": "0.21.0",
+        "name": "vscode-java-debug"
+      },
+      {
+        "id": "7865e561-1c83-410e-9b99-aabada597a7e",
+        "publisherId": "vscjava.vscode-java-dependency",
+        "publisherName": "vscjava",
+        "version": "0.5.1",
+        "name": "vscode-java-dependency"
+      },
+      {
+        "id": "67c06b0d-1891-42ca-b2a8-113e79bff069",
+        "publisherId": "vscjava.vscode-java-test",
+        "publisherName": "vscjava",
+        "version": "0.19.0",
+        "name": "vscode-java-test"
+      },
+      {
+        "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
+        "publisherId": "vscjava.vscode-maven",
+        "publisherName": "vscjava",
+        "version": "0.18.2",
+        "name": "vscode-maven"
+      },
+      {
+        "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
+        "publisherId": "vscjava.vscode-java-pack",
+        "publisherName": "vscjava",
+        "version": "0.8.0",
+        "name": "vscode-java-pack"
+      }
+    ],
+    "Rust": [
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+        "publisherId": "ms-azuretools.vscode-docker",
+        "publisherName": "ms-azuretools",
+        "version": "0.7.0",
+        "name": "vscode-docker"
+      },
+      {
+        "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+        "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+        "publisherName": "VisualStudioExptTeam",
+        "version": "1.1.9",
+        "name": "vscodeintellicode"
+      },
+      {
+        "id": "570e6089-b871-41df-9cf4-a723cb34ef01",
+        "publisherId": "rust-lang.rust",
+        "publisherName": "rust-lang",
+        "version": "0.6.1",
+        "name": "rust"
+      },
+      {
+        "id": "6a95a3fd-3a5d-4326-b8ab-1b1653b1f183",
+        "publisherId": "serayuzgur.crates",
+        "publisherName": "serayuzgur",
+        "version": "0.4.3",
+        "name": "crates"
+      }
+    ],
+    "Python": [
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+        "publisherId": "ms-azuretools.vscode-docker",
+        "publisherName": "ms-azuretools",
+        "version": "0.7.0",
+        "name": "vscode-docker"
+      },
+      {
+        "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+        "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+        "publisherName": "VisualStudioExptTeam",
+        "version": "1.1.9",
+        "name": "vscodeintellicode"
+      },
+      {
+        "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+        "publisherId": "ms-python.python",
+        "publisherName": "ms-python",
+        "version": "2019.8.30787",
+        "name": "python"
+      }
+    ],
+    "Cpp": [
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+        "publisherId": "ms-azuretools.vscode-docker",
+        "publisherName": "ms-azuretools",
+        "version": "0.7.0",
+        "name": "vscode-docker"
+      },
+      {
+        "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+        "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+        "publisherName": "VisualStudioExptTeam",
+        "version": "1.1.9",
+        "name": "vscodeintellicode"
+      },
+      {
+        "id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
+        "publisherId": "ms-vscode.cpptools",
+        "publisherName": "ms-vscode",
+        "version": "0.25.1",
+        "name": "cpptools"
+      }
+    ],
+    "Go": [
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+        "publisherId": "ms-azuretools.vscode-docker",
+        "publisherName": "ms-azuretools",
+        "version": "0.7.0",
+        "name": "vscode-docker"
+      },
+      {
+        "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+        "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+        "publisherName": "VisualStudioExptTeam",
+        "version": "1.1.9",
+        "name": "vscodeintellicode"
+      },
+      {
+        "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
+        "publisherId": "ms-vscode.Go",
+        "publisherName": "ms-vscode",
+        "version": "0.11.4",
+        "name": "Go"
+      }
+    ],
+    "Leetcode (JS)": [
+      {
+        "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+        "publisherId": "akamud.vscode-theme-onedark",
+        "publisherName": "akamud",
+        "version": "2.1.0",
+        "name": "vscode-theme-onedark"
+      },
+      {
+        "id": "43335a8d-5929-408b-874a-65f08362642c",
+        "publisherId": "file-icons.file-icons",
+        "publisherName": "file-icons",
+        "version": "1.0.19",
+        "name": "file-icons"
+      },
+      {
+        "id": "66682185-9f80-4b70-8b8c-9e492935c105",
+        "publisherId": "shengchen.vscode-leetcode",
+        "publisherName": "shengchen",
+        "version": "0.15.3",
+        "name": "vscode-leetcode"
+      }
+    ]
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
