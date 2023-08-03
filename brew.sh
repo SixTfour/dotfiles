@@ -30,8 +30,6 @@ apps=(
 )
 
 caskApps=(
-    google-chrome
-    marshallofsound-google-play-music-player
     visual-studio-code
 )
 
