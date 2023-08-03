@@ -25,11 +25,14 @@ brew upgrade --all
 apps=(
     go
     nvm
-    pyenv
     rustup
 )
 
 caskApps=(
+    iterm2
+    keeper-password-manager
+    miniconda
+    spotify
     visual-studio-code
 )
 
