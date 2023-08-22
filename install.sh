@@ -1,13 +1,9 @@
-  
 #!/bin/bash
-mkdir ~/code
-# Install OhMyZsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-# Install Powerlevel 10k theme
-git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
-# Install all Homebrew packages
-sh ./brew.sh
-# Link zsh/.zshrc to ~/.zshrc
-sh ./link.sh
-
-echo "Finished: Environment successfully installed!"
+while getopts p:w flag
+do
+    case "${flag}" in
+        p) sh ./profiles/personal/install.sh;;
+        w) sh ./profiles/fb/install.sh;;
+        ?) echo "Please use -p (Personal) or -w (Work) flag";;
+    esac
+done
